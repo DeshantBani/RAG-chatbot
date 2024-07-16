@@ -1,0 +1,9 @@
+boto3
+fastapi
+mangum
+uvicorn
+pypdf
+chromadb
+langchain
+langchain-aws
+langchain-community
